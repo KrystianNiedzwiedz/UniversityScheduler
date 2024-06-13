@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M2HX8pdBUmjCrpqw2ySJjNmAtcedj349Aa9LgesSTa4=",
+  "Source": "UniversityScheduler.Catalog.Service",
+  "BasePath": "_content/UniversityScheduler.Catalog.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

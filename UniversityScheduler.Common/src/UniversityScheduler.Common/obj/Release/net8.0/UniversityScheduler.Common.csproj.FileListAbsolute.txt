@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\bin\Release\net8.0\UniversityScheduler.Common.deps.json
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\bin\Release\net8.0\UniversityScheduler.Common.dll
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\bin\Release\net8.0\UniversityScheduler.Common.pdb
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.dll
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\refint\UniversityScheduler.Common.dll
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\UniversityScheduler.Common.pdb
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Common\src\UniversityScheduler.Common\obj\Release\net8.0\ref\UniversityScheduler.Common.dll

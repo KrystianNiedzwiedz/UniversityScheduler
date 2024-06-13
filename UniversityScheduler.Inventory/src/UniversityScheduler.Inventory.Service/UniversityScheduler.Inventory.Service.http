@@ -1,0 +1,6 @@
+@UniversityScheduler.Inventory.Service_HostAddress = http://localhost:5041
+
+GET {{UniversityScheduler.Inventory.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

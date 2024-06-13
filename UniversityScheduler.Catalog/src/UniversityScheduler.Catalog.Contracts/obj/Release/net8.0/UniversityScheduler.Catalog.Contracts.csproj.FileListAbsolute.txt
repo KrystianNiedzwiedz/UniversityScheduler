@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\bin\Release\net8.0\UniversityScheduler.Catalog.Contracts.deps.json
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\bin\Release\net8.0\UniversityScheduler.Catalog.Contracts.dll
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\bin\Release\net8.0\UniversityScheduler.Catalog.Contracts.pdb
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\UniversityScheduler.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\UniversityScheduler.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\UniversityScheduler.Catalog.Contracts.AssemblyInfo.cs
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\UniversityScheduler.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\UniversityScheduler.Catalog.Contracts.dll
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\refint\UniversityScheduler.Catalog.Contracts.dll
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\UniversityScheduler.Catalog.Contracts.pdb
+C:\Users\User\Desktop\UniversityScheduler\UniversityScheduler.Catalog\src\UniversityScheduler.Catalog.Contracts\obj\Release\net8.0\ref\UniversityScheduler.Catalog.Contracts.dll
